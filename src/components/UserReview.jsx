@@ -2,9 +2,9 @@ import React, { useState, useEffect } from "react";
 import { Star, ChevronLeft, ChevronRight } from "lucide-react";
 import Tanvir from "../assets/tanvir-ahamed.jpg";
 import Kamruzzaman from "../assets/Kamruzzaman.jpg";
-import Shorifuzzaman from "../assets/shorifuzzaman.jpg";
+import Shorifuzzaman from "../assets/Shorifuzzaman.jpg";
 import SadiaIslam from "../assets/sadia.webp";
-import NazmulHaque from "../assets/nazmul.jpg";
+import NazmulHaque from "../assets/Nazmul.jpg";
 import AhmedBinKarim from "../assets/Ahmed.jpg";
 
 const UserReview = () => {
