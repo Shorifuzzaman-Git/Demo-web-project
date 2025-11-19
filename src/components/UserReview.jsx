@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Star, ChevronLeft, ChevronRight } from "lucide-react";
 import Tanvir from "../assets/tanvir-ahamed.jpg";
-import Kamruzzaman from "../assets/kamruzzaman.jpg";
+import Kamruzzaman from "../assets/Kamruzzaman.jpg";
 import Shorifuzzaman from "../assets/shorifuzzaman.jpg";
 import SadiaIslam from "../assets/sadia.webp";
 import NazmulHaque from "../assets/nazmul.jpg";
